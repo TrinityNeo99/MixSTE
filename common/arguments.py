@@ -7,7 +7,7 @@
 
 import argparse
 
-def parse_args():
+def  parse_args():
     parser = argparse.ArgumentParser(description='Training script')
 
     # General arguments
